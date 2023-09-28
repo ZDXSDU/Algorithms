@@ -1,4 +1,4 @@
-﻿int[] ints = new int[30];
+﻿int[] ints = new int[3000];
 bool isSort = true;
 Random rnd = new();
 for (int i = 0; i < ints.Length; i++)
@@ -41,16 +41,7 @@ static void QuickSort(int[] ints, int less, int greater)
     QuickSort(ints, i + 1, greater);
 }
 
-
-
-
-
-
-
-
-
-
-void QuickSort2(int[] A, int lo, int hi)
+static void QuickSort2(int[] A, int lo, int hi)
 {
     if (lo > hi)//递归退出条件
     {

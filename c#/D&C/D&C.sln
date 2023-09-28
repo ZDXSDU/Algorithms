@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D&C", "D&C.csproj", "{645519B7-431F-4C0B-B961-05FA83DD037B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "快速排序", "..\快速排序\快速排序.csproj", "{35C5E707-5052-428B-AB1A-FF054585F392}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "快速排序", "..\快速排序\快速排序.csproj", "{35C5E707-5052-428B-AB1A-FF054585F392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "散列表HashTable", "..\散列表HashTable\散列表HashTable.csproj", "{708E228A-3171-4BB3-9359-CA63598432B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{35C5E707-5052-428B-AB1A-FF054585F392}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C5E707-5052-428B-AB1A-FF054585F392}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C5E707-5052-428B-AB1A-FF054585F392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708E228A-3171-4BB3-9359-CA63598432B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708E228A-3171-4BB3-9359-CA63598432B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708E228A-3171-4BB3-9359-CA63598432B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708E228A-3171-4BB3-9359-CA63598432B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
