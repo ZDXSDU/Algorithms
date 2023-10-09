@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZc54cStXsKz71yDatl09x52cmP2ErVrddM4zLIvJIqfFt5wZZwyq68dR+SGqmQDQQkJqkh/oZB5d/yPrOyfzg==",
+  "success": true,
+  "projectFilePath": "E:\\codingForZDXSDUGitHub\\图灵算法图解\\c#\\计算十二存单总收益\\计算十二存单总收益.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS666\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS666\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
