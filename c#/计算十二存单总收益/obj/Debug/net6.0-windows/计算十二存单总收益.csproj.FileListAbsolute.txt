@@ -1,4 +1,6 @@
 E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\bin\Debug\net6.0-windows\计算十二存单总收益.exe
+E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\bin\Debug\net6.0-windows\1009105354.png
+E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\bin\Debug\net6.0-windows\20231009105354.png
 E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\bin\Debug\net6.0-windows\console_logo.png
 E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\bin\Debug\net6.0-windows\计算十二存单总收益.deps.json
 E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\bin\Debug\net6.0-windows\计算十二存单总收益.runtimeconfig.json
@@ -19,5 +21,3 @@ E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\obj\D
 E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\obj\Debug\net6.0-windows\计算十二存单总收益.pdb
 E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\obj\Debug\net6.0-windows\计算十二存单总收益.genruntimeconfig.cache
 E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\obj\Debug\net6.0-windows\ref\计算十二存单总收益.dll
-E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\bin\Debug\net6.0-windows\20231009105354.png
-E:\codingForZDXSDUGitHub\图灵算法图解\c#\计算十二存单总收益\bin\Debug\net6.0-windows\1009105354.png

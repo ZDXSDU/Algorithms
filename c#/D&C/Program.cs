@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Collections;
 
-int SumList(List<int> ints)
+static int SumList(List<int> ints)
 {
     if (ints.Count == 1)
     {

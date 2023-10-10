@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iJ4XqUkf2QHe6CEfAEhfWjcclZGXXDXEGJi9R1Z0lH1lQ7uJSkRMLvQe3qNfPifZnTzoE562s9yVmwTAN8wBzA==",
+  "dgSpecHash": "n6ZpahoV64olM+58djkwOdHgWjurgGYEqrotTHEsjAbkVVLm8lhjGF8pXUpprkJ5v9WAaU2EDtqSIFfc9lQ/3Q==",
   "success": true,
   "projectFilePath": "E:\\codingForZDXSDUGitHub\\图灵算法图解\\c#\\吸烟利息计算\\吸烟利息计算.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS666\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS666\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
