@@ -16,7 +16,7 @@ static int SumList(List<int> ints)
 }
 
 int[] ints = { 1, 2147, 3, 654, 5, 6, 567, 8, 9, 120 };
-List<int> list = new List<int>(ints);
+List<int> list = new(ints);
 Console.WriteLine(SumList(list));
 list = new List<int>(ints);
 
