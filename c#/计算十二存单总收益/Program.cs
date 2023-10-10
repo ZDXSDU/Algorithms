@@ -97,4 +97,13 @@ Console.WriteLine("坚持{0}年每月存入{1}元，按照{2}%的存款利率到
 );
 Console.WriteLine();
 Console.WriteLine();
-Console.WriteLine("-----------------------------------------------");
+Console.WriteLine("-------------------- 以下是另一种计算方式 --------------------");
+double Lx = Math.Pow(everyMonth * (1 + rate / 12), 12 * year) - everyMonth * 12 * year;
+Console.WriteLine();
+Console.WriteLine("每月新存入{0}元和转存到期的本息，坚持{1}年后，将会有{2}元的收益。其中本金{3}元、利息{4}元",
+    everyMonth,
+    year,
+    everyMonth * (1 + rate / 12) * 12 * year,
+    everyMonth * 12 * year,
+    Lx
+);
