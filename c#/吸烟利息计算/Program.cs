@@ -67,6 +67,12 @@ Console.WriteLine();
 Console.WriteLine();
 Console.WriteLine();
 Console.WriteLine();
+//香烟价格上涨的花费计算
+//currentAgeOfSmoker：当前年龄
+//expectedAgeOfSmoker：还能活到多少岁
+//currentCigarettePrices：现在的烟多少钱一包
+//cigarettePriceGrowth：香烟价格的年增长趋势，即每年上涨多少钱
+//amountSmoked：每天抽几根烟
 static double CigarettesAndConsumption(int currentAgeOfSmoker, int expectedAgeOfSmoker, double currentCigarettePrices, double cigarettePriceGrowth, double amountSmoked)
 {
     double TOTAL = 0.0;
